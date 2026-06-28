@@ -1,0 +1,17 @@
+# Ignore compiled C executables
+*.out
+*.exe
+*.o
+
+# VS Code settings
+.vscode/
+
+# Build folder
+build/
+
+# Temporary files
+*.swp
+*.tmp
+
+# Log files
+*.log
