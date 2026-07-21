@@ -1,8 +1,9 @@
 #include<stdio.h>
-#define PI = 3.14
+#define PI  3.14
 int main()
 {
-	float r,Area,PI;
+	float r,Area;
+	printf("enter radius :");
 	scanf("%f",&r);
 	Area=PI*r*r;
 	printf("Area = %.2f\n",Area);
